@@ -11,7 +11,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the/)**
+To view the demo: **[click here](https://dushyantchahar.github.io/Dushyant_Portfolio/)**
 
 ---
 
