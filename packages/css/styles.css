@@ -1328,3 +1328,10 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+#btns {
+  cursor: pointer;
+  border: none;
+}
+
+
